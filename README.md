@@ -11,3 +11,6 @@ In this project, I have developed a model with an accuracy of 96% and a validati
 https://www.youtube.com/watch?v=cqiFHJokL7s
 
 [![Alt text for your video](https://img.youtube.com/vi/cqiFHJokL7s/0.jpg)](https://www.youtube.com/watch?v=cqiFHJokL7s)
+
+# Dataset
+https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset
